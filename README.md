@@ -34,7 +34,7 @@ A clean, modern, and fully responsive single-page WordPress theme perfect for ag
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/dnlatt/space-dynamic/theme/
+   git clone https://github.com/dnlatt/space-dynamic/space-dynamic/
 
 ## 🔧 Customization
 Use the WordPress Customizer (Appearance → Customize) to adjust:
